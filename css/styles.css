@@ -306,10 +306,6 @@ img {
   margin-bottom: 8px;
 }
 
-.team-socials {
-  display: flex;
-}
-
 .team-socials-list {
   display: flex;
   justify-content: center;
@@ -453,10 +449,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.32px;
   margin-bottom: 16px;
-}
-
-.icon-footer {
-  display: flex;
 }
 
 .social-footer-list {
